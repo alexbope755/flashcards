@@ -5,9 +5,6 @@ Simple React Webapp to create flashcards, quizz and Tests with AI
 
 Hola, espero disfrutes de mi primer repositorio público.
 
-
-Aquí tienes un `README.md` profesional y claro, ideal para GitHub, adaptado exclusivamente a tu proyecto de generación de flashcards, quizzes y pruebas con IA usando React y DeepSeek:
-
 ---
 
 ```markdown
