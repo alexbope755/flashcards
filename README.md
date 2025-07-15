@@ -1,4 +1,4 @@
-# flashcards
+# SmartFlip
 Simple React Webapp to create flashcards, quizz and Tests with AI
 
 // WEBAPP CREATED BY ALEXANDER BONE, HTTPS://WWW.ALEXBOPE75.COM
