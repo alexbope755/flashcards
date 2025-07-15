@@ -55,7 +55,7 @@ Todo esto potenciado por la API de **DeepSeek**, ideal para estudiantes de cualq
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/smartflip.git
+   git clone https://github.com/alexbope755/smartflip.git
    cd smartflip
 ````
 
